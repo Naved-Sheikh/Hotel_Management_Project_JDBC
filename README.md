@@ -44,7 +44,7 @@ hotelmanagementsystemJDBC/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hotelmanagementsystemJDBC.git
+git clone https://github.com/Naved-Sheikh/hotelmanagementsystemJDBC.git
 cd hotelmanagementsystemJDBC
 ```
 
@@ -104,10 +104,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Naved**
-📧 Email: [navedsheikh7983@gmail.com](mailto:your.email@example.com)
-🔗 GitHub: [Naved-Sheikh](https://github.com/yourusername)
+**Naved Sheikh**
+📧 Email: [navedsheikh7983@gmail.com](mailto:navedsheikh7983@gmail.com)
+🔗 GitHub: [Naved-Sheikh](https://github.com/Naved-Sheikh)
 
 ---
-
-Do you also want me to make the **`database.sql`** file so your GitHub repo works instantly for anyone who downloads it? That will make it look professional.
